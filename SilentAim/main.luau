@@ -81,7 +81,7 @@ ws.Color = Color3.fromRGB(130, 16, 16) ws.Thickness = 1.4 ws.Transparency = 0.3
 local bgImg = Instance.new("ImageLabel", W)
 bgImg.Size                   = UDim2.new(1,0,1,0)
 bgImg.BackgroundTransparency = 1
-bgImg.Image                  = "rbxasset://111823734811187"
+bgImg.Image                  = "rbxasset://134553839361721"
 bgImg.ImageTransparency      = 0.6
 bgImg.ScaleType              = Enum.ScaleType.Crop
 bgImg.ZIndex                 = 0
