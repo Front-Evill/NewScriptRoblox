@@ -110,7 +110,7 @@ local icoLbl = Instance.new("ImageLabel", hdr)
 icoLbl.Size                   = UDim2.new(0,24,0,24)
 icoLbl.Position               = UDim2.new(0,12,0.5,-12)
 icoLbl.BackgroundTransparency = 1
-icoLbl.Image                  = "rbxasset://icons/icon.png"
+icoLbl.Image                  = "rbxasset://80293187955968"
 icoLbl.ZIndex                 = 6
 
 local titleLbl = Instance.new("TextLabel", hdr)
