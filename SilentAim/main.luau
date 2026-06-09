@@ -51,7 +51,7 @@ mStroke.Transparency = 0.3
 local BG = Instance.new("ImageLabel", Main)
 BG.Size                  = UDim2.new(1, 0, 1, 0)
 BG.BackgroundTransparency = 1
-BG.Image                 = "SlientAim/icons/background.png"
+BG.Image                 = "rbxassetid://SlientAim/icons/background.png"
 BG.ImageTransparency     = 0.6
 BG.ScaleType             = Enum.ScaleType.Crop
 BG.ZIndex                = 0
@@ -80,7 +80,7 @@ local Icon = Instance.new("ImageLabel", Header)
 Icon.Size                  = UDim2.new(0, 28, 0, 28)
 Icon.Position              = UDim2.new(0, 12, 0.5, -14)
 Icon.BackgroundTransparency = 1
-Icon.Image                 = "SlientAim/icons/icon.png"
+Icon.Image                 = "rbxassetid://SlientAim/icons/icon.png"
 Icon.ZIndex                = 3
 
 local TitleLbl = Instance.new("TextLabel", Header)
