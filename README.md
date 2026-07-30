@@ -15,3 +15,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Front-Evill/NewScript
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Front-Evill/NewScriptRoblox/refs/heads/main/webhook/main.luau"))()
 ```
+# Script Animations
+```lua
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Front-Evill/NewScriptRoblox/refs/heads/main/Animations/main.lua'))()
+```
