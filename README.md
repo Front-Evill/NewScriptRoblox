@@ -1,3 +1,7 @@
+# Script Devlyx
+```lua
+loadstring(gamr:GetHttp('https://raw.githubusercontent.com/Front-Evill/NewScriptRoblox/refs/heads/main/Devlyx/main.luau'))
+```
 # Script SilentAim
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Front-Evill/NewScriptRoblox/refs/heads/main/SilentAim/main.luau"))()
